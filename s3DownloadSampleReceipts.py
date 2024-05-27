@@ -2,8 +2,8 @@ import pandas as pd
 import boto3
 import os
 
-aws_access_key_id = 'AKIAXWN7PUV7PI3CR4RR'
-aws_secret_access_key = 'ZaDR3TDH0s32PQZe550bOV6lhbof9tqHHmUDUN83'
+aws_access_key_id = 'your own'
+aws_secret_access_key = 'your own'
 bucket_name = 'savyour-prod'
 download_directory = '/home/gaditek/Receipt-Scanner/ReceiptDataset/'  
 file_path='/home/gaditek/Receipt-Scanner/receiptSample.txt'
